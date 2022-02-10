@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic  -rdynamic -fuse-ld=gold -lpthread -ggdb CMakeFiles/step-1.dir/step-1.cc.o  -o step-1 /lib/libdeal_II.g.so.9.3.0 -lboost_serialization -lboost_system -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread 

@@ -1,0 +1,10 @@
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/rebuild_cache.dir
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/edit_cache.dir
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/info.dir
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/strip_comments.dir
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/run.dir
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/step-1.dir
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/debug.dir
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/release.dir
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/runclean.dir
+/home/aerubianoma/deal.ii-9.3.0/examples/step-1/CMakeFiles/distclean.dir
